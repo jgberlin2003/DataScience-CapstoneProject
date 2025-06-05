@@ -14,7 +14,7 @@ This project explores the concept of **peak athletic performance** across severa
 - `CapstonePoster.pdf`: A polished research poster summarizing the full project, findings, and visuals.
 - `README.md`: This file.
 
-- Full peakPerformR package is hosted on @elivatsaas GitHub page. To install package to your machine via R use this command in R console -> devtools::install_github("elivatsaas/peakPerformR")
+- Full peakPerformR package is hosted on @elivatsaas GitHub page. To install package to your machine via R use this command in R console -> `devtools::install_github("elivatsaas/peakPerformR")`
 
 ## 🔍 Key Insights (From Poster)
 
