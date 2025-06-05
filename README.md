@@ -10,9 +10,11 @@ This project explores the concept of **peak athletic performance** across severa
 
 ## 📄 Files in This Repo
 
-- `peakPerformR/`: R scripts and code used for data cleaning, modeling, and visualization.
+- `peakPerformREDA`: Document performing and commentating on exploratory data analysis of performance in sports. (Separate R Markdown and PDF versions)
 - `CapstonePoster.pdf`: A polished research poster summarizing the full project, findings, and visuals.
 - `README.md`: This file.
+
+- Full peakPerformR package is hosted on @elivatsaas GitHub page. To install package to your machine via R use this command in R console -> devtools::install_github("elivatsaas/peakPerformR")
 
 ## 🔍 Key Insights (From Poster)
 
@@ -24,13 +26,12 @@ This project explores the concept of **peak athletic performance** across severa
 
 - **R / RStudio**: Data wrangling, modeling, and visualization
 - `tidyverse`, `ggplot2`, `dplyr`, `lubridate`, and more
-- **Statistical modeling**: Polynomial regression and curve fitting
 
 ## 👥 Team
 
 This was a collaborative capstone project completed as part of our data science curriculum.  
-Created by Jacob Berlin and team.
+Created by Jacob Berlin and Eli Vatsaas.
 
 ## 📬 Contact
 
-For questions or collaboration, reach out via [GitHub](https://github.com/jgberlin2003) or view the full [poster summary here](./CapstonePoster.pdf).
+For questions or collaboration, reach out via [GitHub](https://github.com/jgberlin2003) or view the full [poster summary here](./Peak-Performance-Poster.pdf).
